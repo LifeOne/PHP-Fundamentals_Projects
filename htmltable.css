@@ -1,0 +1,25 @@
+
+  * {
+    margin: 5px;
+    padding: 0;
+  }
+  h1 {
+    margin: 10px;
+  }
+  span {
+    font-weight: bold;
+  }
+  td {
+    padding: 5px 20px;
+  }
+  div {
+    margin-bottom: 100px;
+  }
+  .tr-def {
+    color: black;
+    background-color: white;
+  }
+  .tr-alt {
+    color: white;
+    background-color: black;
+  }
